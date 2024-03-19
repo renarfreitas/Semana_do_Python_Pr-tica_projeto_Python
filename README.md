@@ -1,1 +1,1 @@
-# Semana_do_Python_Pr-tica_projeto_Python
+# Semana_do_Python_Pratica_projeto_Python
